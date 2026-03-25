@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Aluno/ProjetoAluno.csproj" Id="4ef98ddb-647c-42a4-ae5b-1b5805730e5b" />
+  <Project Path="Exercicio_01/Exercicio_01.csproj" Id="528e4c40-fb1d-400d-8a94-7685380c8aa0" />
+  <Project Path="Exercicio_02/ProjetoProduto.csproj" Id="97c06622-f23e-4849-a52c-6b769dadb6e8" />
+  <Project Path="Exercicio_03/Exercicio_03.csproj" Id="dcbf99fa-ad80-440c-84fb-c7aa7c176737" />
+  <Project Path="Exercicio_o4/Exercicio_04.csproj" Id="ee71fc4e-ad71-4a99-a3ef-1fbdbbde65ce" />
+  <Project Path="ProjetoFuncionario/ProjetoFuncionario.csproj" Id="557bfa52-532d-416f-a29d-d2bb330d2e82" />
+  <Project Path="ProjetoGeometria/ProjetoGeometria.csproj" Id="53d1c395-ff07-4c4b-b45d-ad16cd70f8d0" />
+  <Project Path="ProjetoProduto_01/ProjetoProduto_01.csproj" Id="cb5bacc7-f241-4f6e-ae37-d83c98bb7143" />
+</Solution>
